@@ -10,6 +10,7 @@ accountPassword="212121"
 accountCity="Lahore"
 
 console.log(accountId);
+console.log(accountId);
 
 // prefere not to use var because of issue in block scope functional scope
 
